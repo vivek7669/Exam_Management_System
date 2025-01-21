@@ -1,10 +1,10 @@
-<h1>Exam_Management_System</h1>
-ApiLink : https://exammanagementsystem-production.up.railway.app/
-Api Routes : 
-getRoutes -> /exam/exam-questions
-             /examCategory
-             /examCategory/categories/:categoryId
+<h1>Exam_Management_System</h1> <br />
+ApiLink : https://exammanagementsystem-production.up.railway.app/  <br />
+Api Routes : <br />
+getRoutes -> /exam/exam-questions <br />
+             /examCategory <br />
+             /examCategory/categories/:categoryId 
 <br />
-
-postRoutes -> /exam/add
-postRoutes -> /examCategory/add
+<br />
+postRoutes -> /exam/add <br />
+              /examCategory/add
